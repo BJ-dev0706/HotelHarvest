@@ -1,0 +1,25 @@
+# Core dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+
+# Image processing
+Pillow==10.1.0
+opencv-python==4.8.1.78
+
+# Web scraping specific
+markdownify==0.11.6
+tldextract==5.0.1
+
+# Async functionality
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# Progress tracking & display
+tqdm==4.66.1
+
+# Optional ML dependencies (based on original requirements)
+numpy==1.26.1
+pandas==2.1.2
+scikit-learn==1.3.2
+matplotlib==3.8.2
