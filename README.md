@@ -47,7 +47,7 @@ MAX_BOOKING_URLS=5
 To scrape a single hotel website:
 
 ```bash
-python main.py --url https://example-hotel.com
+python main.py --url https://www.bestwestern-quartier-latin.com/
 ```
 
 This will:
